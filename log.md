@@ -8,3 +8,11 @@
 
 **Link to work:** Not yet!
 
+### Day 1: September 22, 2017 7:14AM
+
+**Today's Progress**: Finished the Bootstrap and started the JQuery part of the freeCodeCamp front-end
+
+**Thoughts:** Bootstrap is cool!
+
+**Link to work:** Not yet!
+
