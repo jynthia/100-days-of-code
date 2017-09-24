@@ -16,3 +16,11 @@
 
 **Link to work:** Not yet!
 
+### Day 3: September 23, 2017 10:31PM
+
+**Today's Progress**: I was sick today and it was a saturday but I got to finish the jQuery part  of the freeCodeCamp course
+
+**Thoughts:**: jQuery is alright
+
+**Link to work:** 
+
